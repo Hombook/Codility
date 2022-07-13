@@ -1,3 +1,4 @@
+https://app.codility.com/programmers/trainings/3/socks_laundering/
 1. Efficiency:
     - 2 cleans - 0 wash
     - 1 clean, 1 dirty - 1 wash
